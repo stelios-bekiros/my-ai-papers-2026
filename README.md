@@ -1,4 +1,4 @@
-#  Mitigating Hallucination and Confabulation in Large Language Models (LLMs) and Multi-Agent Systems (MASs): Is Simplicity the Ultimate Sophistication?
+# Mitigating Hallucination and Confabulation in Large Language Models (LLMs) and Multi-Agent Systems (MASs): Is Simplicity the Ultimate Sophistication?
 
 **Authors:** Professor Dr. Stelios Bekiros
 
